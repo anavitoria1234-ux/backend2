@@ -1,0 +1,84 @@
+{
+  "alunos": [
+    {
+      "id": 13,
+      "nome": "karolaine soares",
+      "email": "mariaeduard9283@gmail.com",
+      "curso": "analise de sistema",
+      "cpf": "",
+      "numero": ""
+    },
+    {
+      "id": 14,
+      "nome": "karolaine soares",
+      "email": "mariaeduard9283@gmail.com",
+      "curso": "analise de sistema",
+      "cpf": "",
+      "numero": ""
+    },
+    {
+      "id": 15,
+      "nome": "karolaine soares",
+      "email": "mariaeduard9283@gmail.com",
+      "curso": "analise de sistema",
+      "cpf": "",
+      "numero": ""
+    },
+    {
+      "id": 16,
+      "nome": "karolaine soares",
+      "email": "mariaeduard9283@gmail.com",
+      "curso": "analise de sistema",
+      "cpf": "",
+      "numero": ""
+    },
+    {
+      "id": 17,
+      "nome": "ana vitoria",
+      "email": "ana@gmail.com",
+      "curso": "engenharia de software",
+      "cpf": "",
+      "numero": ""
+    },
+    {
+      "id": 21,
+      "nome": "Maria Eduarda",
+      "email": "mariaeduard9283@gmail.com",
+      "curso": "Ciencia da computação",
+      "cpf": "07723559160",
+      "numero": "61992351122"
+    },
+    {
+      "id": 22,
+      "nome": "karolaine de jesus",
+      "email": "karolzinha@gmail.com",
+      "curso": "engenharia de software",
+      "cpf": "07723559990",
+      "numero": "61888888888"
+    },
+    {
+      "id": 23,
+      "nome": "luis nordestino do ceara",
+      "email": "cearence@gmail.com",
+      "curso": "engenharia de software",
+      "cpf": "07723559160",
+      "numero": "61992351122"
+    },
+    {
+      "id": 24,
+      "nome": "jhemile cafagesta chucra",
+      "email": "eumesma123@gmail.com",
+      "curso": "engenharia de software",
+      "cpf": "07723559990",
+      "numero": "61992351122"
+    },
+    {
+      "id": 25,
+      "nome": "ubiratan careca",
+      "email": "carecudo2@gmail.com",
+      "curso": "analise de sistemas",
+      "cpf": "07723559990",
+      "numero": "61992351122"
+    }
+  ]
+}
